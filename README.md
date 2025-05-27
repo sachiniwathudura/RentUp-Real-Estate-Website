@@ -19,7 +19,7 @@ RentUp is a modern real estate web app frontend built using **React**. This proj
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sachiniwathudura/BudgetBuddy-frontend.git
+   git clone https://github.com/sachiniwathudura/RentUp-Real-Estate-Website
 
    ```
 2. Install dependencies:
